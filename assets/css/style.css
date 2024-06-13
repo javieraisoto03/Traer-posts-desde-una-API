@@ -1,0 +1,23 @@
+body {
+    background-color:#F8C471 ; /* Color de fondo para toda la página */
+  }
+  
+  .container {
+    margin: 1cm; /* Margen de 1 cm desde los bordes */
+  }
+  
+  ul {
+    margin-top: 1cm; /* Margen superior de 1 cm para la lista de posts */
+  }
+  
+  button {
+    background-color: #E59866; /* Color de fondo para el botón */
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    opacity: 0.8; /* Efecto de opacidad al pasar el cursor sobre el botón */
+  }
+  
